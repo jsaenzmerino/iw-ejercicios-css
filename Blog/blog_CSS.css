@@ -1,0 +1,76 @@
+body {
+  background-color: #f1f1f1;
+  font-family: arial;
+  max-width: max-content;
+  margin: 20px;
+}
+
+header {
+  font-size: 40px;
+  padding: 30px;
+  text-align: center;
+  background-color: white;
+}
+
+.fotos_content {
+  height: 200px;
+}
+
+.fotos_aboutMe {
+  height: 60px;
+}
+
+.fotos_aboutMe_quotes {
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.fotos_content,
+.fotos_aboutMe,
+.fotos_aboutMe_quotes {
+  padding: 20px;
+  max-width: 90%;
+  background-color: #aaa;
+}
+
+.content {
+  width: 75%;
+  float: left;
+  background-color: white;
+  margin-right: auto;
+}
+
+.content_abajo {
+  width: 75%;
+  float: bottom;
+  background-color: white;
+}
+
+.aboutMe {
+  float: right;
+  width: 25%;
+  background-color: #ddd;
+}
+
+.extras {
+  float: bottom;
+  width: 25%;
+  background-color: #ddd;
+}
+
+.content,
+.content_abajo,
+.aboutMe,
+.extras {
+  display: inline-block;
+  box-sizing: border-box;
+  margin-top: 25px;
+  padding: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #ddd;
+  text-align: center;
+}

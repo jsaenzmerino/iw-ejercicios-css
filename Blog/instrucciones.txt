@@ -1,0 +1,16 @@
+● La página ocupa todo el ancho de la página, y tiene un margen en cada lado de
+20px.
+● El color de fondo de la página es #f1f1f1;
+● Los cuadrados grises que “simulan” imágenes son bloques de 200px de altura y su
+color de fondo es #aaa.
+● El contenedor principal ocupa el 75% del ancho y la columna derecha el 25%.
+● El tipo de letra en todo el documento es Arial
+● El título de la página es de 40px y su contenedor tiene un margen interior de 30px.
+● El footer tiene un margen exterior superior de 20px
+● El footer tiene un margen interior a los 4 lados de 20px y su color de fondo es: #ddd
+● El título de cada post es de tipo h2 y el subtítulo de h5 (utiliza los tamaños por
+defecto)
+● La imagen (o div, según lo elijáis) del autor tiene una altura de 100px
+● Las imágenes pequeñas del lado derecho no tienen altura establecida, solo un
+padding de 20px y texto dentro. Si lo utilizas como imagen, la imagen deberá ser de
+60px.
