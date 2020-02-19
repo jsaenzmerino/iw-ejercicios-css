@@ -64,7 +64,7 @@ header {
 .extras {
   display: inline-block;
   box-sizing: border-box;
-  margin-top: 25px;
+  margin: 25 25 0 0 px;
   padding: 20px;
 }
 
